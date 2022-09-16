@@ -4,3 +4,12 @@
 [submodule "Semester 1/Statistika Dasar/mk-statdas"]
 	path = Semester 1/Statistika Dasar/mk-statdas
 	url = https://github.com/putuwaw/mk-statdas
+[submodule "Semester 2/Matematika Diskrit II/mk-matdis"]
+	path = Semester 2/Matematika Diskrit II/mk-matdis
+	url = https://github.com/putuwaw/mk-matdis
+[submodule "Semester 2/Struktur Data/mk-strukdat"]
+	path = Semester 2/Struktur Data/mk-strukdat
+	url = https://github.com/putuwaw/mk-strukdat
+[submodule "Semester 2/Praktikum Algoritma dan Pemrograman/mk-prak-alpro"]
+	path = Semester 2/Praktikum Algoritma dan Pemrograman/mk-prak-alpro
+	url = https://github.com/putuwaw/mk-prak-alpro
