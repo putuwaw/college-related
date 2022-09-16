@@ -1,0 +1,6 @@
+[submodule "Semester 1/Algoritma dan Pemrograman/mk-alpro"]
+	path = Semester 1/Algoritma dan Pemrograman/mk-alpro
+	url = https://github.com/putuwaw/mk-alpro
+[submodule "Semester 1/Statistika Dasar/mk-statdas"]
+	path = Semester 1/Statistika Dasar/mk-statdas
+	url = https://github.com/putuwaw/mk-statdas
