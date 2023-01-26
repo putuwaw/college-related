@@ -13,3 +13,9 @@
 [submodule "Semester 2/Praktikum Algoritma dan Pemrograman/mk-prak-alpro"]
 	path = Semester 2/Praktikum Algoritma dan Pemrograman/mk-prak-alpro
 	url = https://github.com/putuwaw/mk-prak-alpro
+[submodule "Semester 3/mk-pbo"]
+	path = Semester 3/mk-pbo
+	url = https://github.com/putuwaw/mk-pbo
+[submodule "Semester 3/mk-tbo"]
+	path = Semester 3/mk-tbo
+	url = https://github.com/putuwaw/mk-tbo
