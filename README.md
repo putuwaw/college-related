@@ -20,6 +20,11 @@ Semester 3
 - Mata Kuliah Pemrograman Berorientasi Objek
 - Mata Kuliah Teori Bahasa dan Otomata
 
+Semester 4
+
+- Mata Kuliah Pemrograman Berbasis Web
+- Mata Kuliah Pengantar Pemrosesan Data Multimedia
+
 ## Final Project List
 
 - [**Tetris**](https://github.com/putuwaw/tetris) - Final Project Mata Kuliah Algoritma dan Pemrograman

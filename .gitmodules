@@ -19,3 +19,9 @@
 [submodule "Semester 3/mk-tbo"]
 	path = Semester 3/mk-tbo
 	url = https://github.com/putuwaw/mk-tbo
+[submodule "Semester 4/Pemrograman Berbasis Web/mk-pbw"]
+	path = Semester 4/Pemrograman Berbasis Web/mk-pbw
+	url = https://github.com/putuwaw/mk-pbw
+[submodule "Semester 4/Pengantar Pemrosesan Data Multimedia/mk-ppdm"]
+	path = Semester 4/Pengantar Pemrosesan Data Multimedia/mk-ppdm
+	url = https://github.com/putuwaw/mk-ppdm
